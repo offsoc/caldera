@@ -20,6 +20,6 @@ rich==13.7.0
 svglib==1.5.1  # debrief
 Markdown==3.4.4  # training
 dnspython==2.6.1
-asyncssh==2.14.1
+asyncssh==2.14.2
 aioftp~=0.20.0
 packaging==23.2
